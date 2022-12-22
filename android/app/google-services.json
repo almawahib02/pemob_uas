@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1089296454710",
+    "project_id": "tubespemob-f9567",
+    "storage_bucket": "tubespemob-f9567.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1089296454710:android:f2456d04fadd903ff0f497",
+        "android_client_info": {
+          "package_name": "com.example.tubes_pemob"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1089296454710-fg80cb45ar42h47ssclpa7abtb3csec5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNokSFsiFui8EzwrOz6hwwXLxfm6JoTFk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1089296454710-fg80cb45ar42h47ssclpa7abtb3csec5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
